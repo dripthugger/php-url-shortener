@@ -33,7 +33,7 @@ php index.php create http://google.com
 Result will be:
 
 ```sh
-Link to http://google.com created - http://localhost/urlshortener/index.php?key=ff7dd6cbe3031c5c
+Link to http://google.com created - http://localhost/index.php?key=ff7dd6cbe3031c5c
 ```
 
 So, you can follow this link and http://google.com will be opened
